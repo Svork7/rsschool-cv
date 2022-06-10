@@ -17,6 +17,6 @@ I worked as a lawyer for 14 years and decided to change my proffession. As i was
 ## Figma, Photoshop
 
 # Languages:
-## Russian - native
-## English - upper intermediate
-## German - basic
+__Russian - native__
+__English - upper intermediate__
+__German - basic__
