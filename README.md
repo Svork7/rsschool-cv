@@ -3,4 +3,4 @@
 https://svork7.github.io/rsschool-cv/cv
 __Name: Eugene Mihailov__
 
-__Personal info:__
+__Personal info:__ 
